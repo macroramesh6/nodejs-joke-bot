@@ -6,7 +6,7 @@ Nodejs-joke-bot shows Chuck Norris jokes from http://www.icndb.com/api/
    -   Nodejs
    -   npm
 
-### Install
+### Install and Start
  - `git clone https://github.com/macroramesh6/nodejs-joke-bot.git`
  - `cd nodejs-joke-bot`
  - `npm install`
